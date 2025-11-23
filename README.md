@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Threat%20Intelligence%20%26%20Automation&fontSize=50&fontAlignY=35&desc=Augusto%20%7C%20Cyber%20Security%20Analyst&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Threat%20Intel%20Auto&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Augusto%20%7C%20Cyber%20Security%20Analyst&descAlignY=60&descAlign=50&fontColor=00f2ff" alt="Header" />
 </div>
 
 <h1 align="center">Olá, eu sou o Augusto! 👋🛡️</h1>
