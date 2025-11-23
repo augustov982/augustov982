@@ -1,25 +1,70 @@
-### Olá, eu sou o Augusto V. 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Threat%20Intelligence%20%26%20Automation&fontSize=50&fontAlignY=35&desc=Augusto%20%7C%20Cyber%20Security%20Analyst&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header" />
+</div>
 
-Sou um **Desenvolvedor Python** e **Pesquisador de Segurança** com forte experiência em mineração de dados e automação. Minha especialidade é criar ferramentas de alta performance para monitorar ameaças, analisar vazamentos de dados e mapear superfícies de ataque.
+<h1 align="center">Olá, eu sou o Augusto! 👋🛡️</h1>
 
-Utilizo meu background em coleta de dados (Data Scraping) para ajudar empresas a se defenderem, identificando vulnerabilidades e exposições antes que sejam exploradas.
+<p align="center">
+  <b>Analista de Threat Intelligence | Automação com Python & IA | Monitoramento de Fraudes</b>
+</p>
 
-👀 **Áreas de Atuação:**
-*   **Threat Intelligence:** Monitoramento de Telegram e Deep Web para detecção de credenciais vazadas.
-*   **Reconhecimento Web (Recon):** Scanners massivos para identificação de tecnologias e CVEs.
-*   **Automação (RPA):** Criação de bots para processamento de grandes volumes de dados (Big Data).
-
-🛠️ **Tecnologias:**
-*   **Linguagens:** Python (Avançado), SQL, Bash.
-*   **Ferramentas:** `Telethon`, `Asyncio`, `BeautifulSoup`, `Selenium`, `SQLite`, `Git`.
-*   **Conceitos:** OSINT, Análise de Vulnerabilidades, Prevenção de Perda de Dados (DLP).
+<p align="center">
+  <a href="https://github.com/augustov982">
+    <img src="https://komarev.com/ghpvc/?username=augustov982&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+  </a>
+</p>
 
 ---
-### 🚀 Projetos em Destaque
-(Confira os repositórios fixados abaixo)
 
-*   🛡️ **Telegram Threat Monitor:** Monitoramento em tempo real de grupos para detectar vazamento de dados corporativos.
-*   🌐 **Web Vulnerability Profiler:** Scanner assíncrono capaz de analisar milhões de domínios para identificar versões vulneráveis (CVEs).
-*   🧠 **Smart Leak Analyzer:** Ferramenta com IA para analisar dumps de senhas e classificar o risco.
+### 👨‍💻 Sobre Mim
 
-📫 **Entre em contato via LinkedIn para oportunidades!**
+Sou um **Pesquisador de Segurança e Especialista em Automação** focado em resolver problemas reais de **Threat Intel** e **Prevenção a Fraudes**. 
+
+Não sou apenas um programador; sou um criador de ferramentas. Com 4 anos de experiência prática (*hands-on*), utilizo **Python e Inteligência Artificial (LLMs)** para criar pipelines que monitoram o submundo do crime digital, detectam phishing e automatizam a defesa cibernética.
+
+*   🔭 **Atualmente focado em:** Agentes de IA Autônomos para Cibersegurança.
+*   🛡️ **Especialidade:** Automação de OSINT, Engenharia Reversa de APIs e Análise de Leaks.
+*   🤖 **Diferencial:** Uso de Llama3 e IA Generativa para triagem de incidentes.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama_(Llama3)-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-Tools-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Intel-Security-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 Projetos em Destaque (Portfolio)
+
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| 🛡️ **[CyberSentinel AI](https://github.com/augustov982/CyberSentinel-Threat-Intel)** | Pipeline Enterprise de detecção de Phishing, Reputação e Validação de Identidade com IA Local. | `Python` `Llama3` `OSINT` |
+| 👁️ **[Telegram Threat Monitor](https://github.com/augustov982/telegram-threat-intel-monitor)** | Monitoramento em tempo real de canais de fraude e vazamento de dados no Telegram. | `Python` `Telethon` `AsyncIO` |
+| 💧 **[Smart Leak Analyzer](https://github.com/augustov982/smart-leak-analyzer)** | Ferramenta para parsing, limpeza e análise de grandes volumes de dados vazados (Leaks). | `Python` `Pandas` `Regex` |
+| 🌐 **[Web Vuln Profiler](https://github.com/augustov982/web-vulnerability-profiler)** | Scanner automatizado para identificação de vulnerabilidades web e análise de superfície de ataque. | `Python` `Requests` `Soup` |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustov982&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustov982&layout=compact&theme=dark"/>
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Transformando dados em inteligência e proteção."</i> 🛡️</p>
+</div>
